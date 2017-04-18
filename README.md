@@ -1,2 +1,2 @@
-# GA
-Genetic Algorithm Project 
+Genetic-Algorithms-for-Model-Selection
+======================================
